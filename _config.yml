@@ -10,7 +10,7 @@ url: "https://IshikawaUta.github.io"
 baseurl: "/my-blogs"
 
 # Pengaturan Bahasa dan Waktu
-lang: id-ID # Menggunakan Bahasa Indonesia
+lang: id-ID
 timezone: Asia/Jakarta
 
 # Tema yang digunakan
@@ -22,7 +22,7 @@ github:
 
 social:
   name: IshikawaUta
-  email: komikers09@gmail.com # Ganti dengan emailmu jika ingin ditampilkan
+  email: komikers09@gmail.com
   links:
     - https://github.com/IshikawaUta
     # - https://twitter.com/username 
@@ -46,7 +46,7 @@ analytics:
     id:
 
 # Sidebar Avatar
-avatar: 'https://github.com/IshikawaUta.png' # Otomatis mengambil foto profil GitHub kamu
+avatar: 'https://github.com/IshikawaUta.png'
 
 # Layout Settings
 toc: true
@@ -54,7 +54,19 @@ paginate: 10
 
 # Komentar (Isi jika ingin mengaktifkan)
 comments:
-  provider: # [disqus | utterances | giscus]
+  active: giscus
+  provider: giscus
+
+  giscus:
+    repo: 'IshikawaUta/my-blogs'
+    repo_id: 'R_kgDORV9GPg'
+    category: 'Announcements'
+    category_id: 'DIC_kwDORV9GPs4C2-uv'
+    mapping: 'url'
+    strict: '0'
+    input_position: 'bottom'
+    lang: 'id'
+    reactions_enabled: '1'
 
 # PWA (Progressive Web App)
 pwa:

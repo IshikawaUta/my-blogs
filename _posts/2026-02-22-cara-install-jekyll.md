@@ -4,8 +4,9 @@ date: 2026-02-22 17:30:00 +0700
 categories: [Teknologi, Tutorial]
 tags: [jekyll, ruby, web-development, tutorial]
 image:
-  path: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200
-  alt: Coding on a laptop with a clean workspace.
+  path: https://blog.katiebroida.com/assets/images/2019/10/jekyll.png
+  alt: Logo Jekyll.
+comments: true
 ---
 
 ## Persiapan Instalasi Jekyll
