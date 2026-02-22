@@ -3,6 +3,7 @@ title: Panduan Lengkap Install Jekyll di Windows/Linux
 date: 2026-02-22 17:30:00 +0700
 categories: [Teknologi, Tutorial]
 tags: [jekyll, ruby, web-development, tutorial]
+pin: true
 image:
   path: https://blog.katiebroida.com/assets/images/2019/10/jekyll.png
   alt: Logo Jekyll.

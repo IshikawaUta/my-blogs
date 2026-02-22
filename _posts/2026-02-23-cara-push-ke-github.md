@@ -3,6 +3,7 @@ title: Cara Push Proyek Lokal ke GitHub
 date: 2026-02-22 21:00:00 +0700
 categories: [Teknologi, Tutorial]
 tags: [git, github, tutorial]
+pin: true
 image:
   path: https://brand.github.com/_next/static/media/logo-03.cc5e5332.png
   alt: Panduan Git dan GitHub.
