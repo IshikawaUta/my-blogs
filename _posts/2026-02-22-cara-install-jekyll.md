@@ -5,7 +5,7 @@ categories: [Teknologi, Tutorial]
 tags: [jekyll, ruby, web-development, tutorial]
 pin: true
 image:
-  path: https://blog.katiebroida.com/assets/images/2019/10/jekyll.png
+  path: https://raw.githubusercontent.com/jekyll/brand/refs/heads/master/jekyll-logo-light-solid.png
   alt: Logo Jekyll.
 comments: true
 ---

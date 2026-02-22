@@ -5,7 +5,7 @@ categories: [Teknologi, Tutorial]
 tags: [git, github, tutorial]
 pin: true
 image:
-  path: https://brand.github.com/_next/static/media/logo-03.cc5e5332.png
+  path: https://miro.medium.com/v2/resize:fit:720/format:webp/0*DIm2MFmfMytxg8wW.png
   alt: Panduan Git dan GitHub.
 comments: true
 ---

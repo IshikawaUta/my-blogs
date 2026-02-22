@@ -1,0 +1,32 @@
+.cursor-dot, .cursor-outline {
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  z-index: 9999;
+  transition: opacity 0.3s ease;
+}
+
+/* Titik kursor utama */
+.cursor-dot {
+  width: 8px;
+  height: 8px;
+  background-color: #888888;
+}
+
+/* Lingkaran luar yang mengikuti */
+.cursor-outline {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #888888;
+  transition: transform 0.15s ease-out;
+}
+
+/* Saat menyentuh link atau tombol */
+.cursor-hover {
+  transform: translate(-50%, -50%) scale(1.5);
+  background-color: rgba(163, 163, 163, 0.2);
+  border: none;
+}
