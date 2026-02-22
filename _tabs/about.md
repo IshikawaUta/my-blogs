@@ -26,5 +26,5 @@ Jika ingin berdiskusi atau sekadar menyapa, kamu bisa menemukan saya di:
 
 ---
 
-### Statistik GitHub
-![Statistik GitHub kamu](https://github-readme-stats.vercel.app/api?username=IshikawaUta&show_icons=true&theme=chirpy)
+### kontribusi GitHub
+![Snake animation](https://raw.githubusercontent.com/IshikawaUta/IshikawaUta/output/github-contribution-grid-snake.svg)
