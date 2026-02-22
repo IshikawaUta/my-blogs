@@ -1,0 +1,25 @@
+{
+    "name": "IshikawaUta",
+    "short_name": "UtaBlog",
+    "icons": [
+        {
+            "src": "/my-blogs/assets/img/favicons/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/my-blogs/assets/img/favicons/web-app-manifest-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/my-blogs/assets/img/favicons/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/my-blogs/"
+}
