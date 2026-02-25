@@ -15,9 +15,6 @@ comments: true
 Tema portofolio Jekyll yang modern, responsif, dan sangat ringan. Dirancang khusus untuk developer dan kreatif yang menginginkan tampilan profesional dengan **Tailwind CSS**, tanpa perlu setup Node.js yang rumit.
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=jekyll-uta-folio&template_owner=IshikawaUta)
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Jekyll](https://img.shields.io/badge/Jekyll-Theme-red.svg)
 
 ---
 
